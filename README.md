@@ -1,4 +1,4 @@
-# Slider1_Youtube
+# Slider_SujeitoProgramador
 
 > Projeto criado a partir desse [video no youtube](https://www.youtube.com/watch?v=BpzyuuPIEaQ)
 
